@@ -18,4 +18,4 @@ name: samplepg-9842
 orig_name: postgresql
 sources:
 - https://github.com/bitnami/bitnami-docker-postgresql
-version: 2.2.0
+version: 0.0.1
